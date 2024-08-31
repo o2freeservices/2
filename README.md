@@ -1,6 +1,3 @@
-warp://@auto6/?ifp=2-4&ifpm=m4#Local&&detour=warp://@auto4/?ifp=1-3&ifpm=m6#WoW warp://@auto6/?ifp=1-2&ifpm=m5#Local&&detour=warp://@auto6/?ifp=2-4&ifpm=m4#🇩🇪
-warp://p1@:[2606:4700:d0::c799:d668:2409:8895]:3476?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#🇮🇷m4&&detour=warp://p2@162.159.192.167:4500#🇩🇪
-warp://78n5s6mR-46jZ5H2x-9uZ2S8A0@162.159.192.101:7103?ifp=1-3&ifps=10-20&ifpd=5-10&ifpm=h_30#hex&&detour=warp://p2@162.159.192.101:7103#WoW
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@zula.ir:443?path=%2FXWaLXW93BDUqwF2G%2Fc3BlZWR0ZXN0LWZyNS5nY29yZS5jb20%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=TElGramcxrOLVPn.paGEs.Dev&fp=randomized&type=ws&sni=TELgRaMCxroLVPN.PagES.Dev#
 warp://@auto/?ifp=1-3&ifpm=h04FA0A&&detour=warp://@auto/?ifp=1-3&ifpm=h04FA0A
 vmess://eyJhZGQiOiJ1cGxvYWQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi4pm777iPNzJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
